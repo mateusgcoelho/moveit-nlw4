@@ -6,6 +6,7 @@ Este projeto esta sendo desenvolvido para fins de estudo, o projeto trata-se da 
 
 - [x] Next.js
 - [x] TypeScript
+- [x] React
 
 ## Aprendizado
 
@@ -13,8 +14,8 @@ O projeto me deu uma otima base de Next.js, getServerSideProps, Contexts, Compon
 
 ## Demonstração em imagens
 
-<img src="./img/foto1.png" />
-<img src="./img/foto2.png" />
-<img src="./img/foto3.png" />
-<img src="./img/foto4.png" />
-<img src="./img/foto5.png" />
+<img src="./img/foto1.png" width="140px" />
+<img src="./img/foto2.png" width="140px" />
+<img src="./img/foto3.png" width="140px" />
+<img src="./img/foto4.png" width="140px" />
+<img src="./img/foto5.png" width="140px" />
