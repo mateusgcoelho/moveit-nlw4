@@ -15,10 +15,9 @@ O projeto me deu uma otima base de Next.js, getServerSideProps, Contexts, Compon
 ## Demonstração em imagens
 
 <div style="display:flex; flex-wrap: wrap;">
-    <img src="./img/foto1.png" width="380px" height="300px" />
-    <img src="./img/foto2.png" width="380px" height="300px" />
-    <img src="./img/foto3.png" width="380px" height="300px" />
-    <img src="./img/foto4.png" width="380px" height="300px" />
-    <img src="./img/foto5.png" width="380px" height="300px" />
+    <img src="./img/foto1.png" width="380px" height="260px" />
+    <img src="./img/foto2.png" width="380px" height="260px" />
+    <img src="./img/foto3.png" width="380px" height="260px" />
+    <img src="./img/foto4.png" width="380px" height="260px" />
+    <img src="./img/foto5.png" width="380px" height="260px" />
 </div>
-
